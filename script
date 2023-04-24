@@ -1,0 +1,11 @@
+-- Milk Up
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CrimesBTW/MilkUp/main/script"))()
+
+-- INCLUDES:
+-- AUTOFARM
+-- BOOTH SNIPE
+-- AUTO PET COLLECTION
+-- AUTO GOLD/RB/DM
+-- AUTO HATCH
+-- AUTO LIST PETS ON BOOTH
